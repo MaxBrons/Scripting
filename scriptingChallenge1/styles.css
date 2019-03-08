@@ -1,0 +1,38 @@
+html,body{
+  padding: 0;
+  margin: 0;
+}
+
+input,.innerCircle span{
+  margin-bottom: 0.5em;
+}
+
+header {
+    overflow: hidden;
+    width: 100%;
+    display: block;
+    background-color: darkred;
+    height: auto;
+}
+header a{
+  display: block;
+  float: left;
+  font-size: 2em;
+  color: green;
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding: 1em;
+}
+
+.innerCircle{
+  width: 20%;
+  border: 10px solid darkred;
+  border-top-right-radius: 3em;
+  border-bottom-left-radius: 3em;
+  padding: 3em;
+  font-size: 1.5em;
+}
+.circle,.square{
+  margin-left: 40%;
+  margin-top: 3em;
+}
