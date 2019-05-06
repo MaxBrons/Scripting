@@ -1,0 +1,21 @@
+body{
+  margin:0;
+  padding:0;
+  background-color: darkred;
+}
+
+#ajaxText,#txtHint{
+  color: white;
+  margin-left: 3em;
+  margin-bottom: 1.5em;
+}
+input{
+  margin-left: 3.5em;
+}
+.wrap{
+  margin: 4em auto;
+  width: 30%;
+  border: .5em solid white;
+  border-bottom-left-radius: 3em;
+  border-top-right-radius: 3em;
+}
